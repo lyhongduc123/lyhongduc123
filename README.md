@@ -3,7 +3,6 @@
 I'm **Duc** — a small developer that exist 😊
 
 ### 👤 Some stuff about me
-- 🇻🇳 I'm from Vietnam
 - 🎓 I studied at VNU-UET
 - 🔍 I love discovering new things and testing them out.
 - ⚡ I do all kinds of things that interest me.
